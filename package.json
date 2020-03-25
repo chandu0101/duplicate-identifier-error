@@ -1,0 +1,14 @@
+{
+  "name": "duplicate-identifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chandu0101",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.31",
+    "typescript": "^3.8.3"
+  }
+}
